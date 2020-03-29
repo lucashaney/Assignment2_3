@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Your School App</string>
+    <string name="txtSchoolName">St. Petersburg College</string>
+    <string name="description">St. Petersburg College Image</string>
+    <string name="btnSchool">View Information</string>
+    <string name="description2">St. Petersburg College Logo</string>
+    <string name="txtAddress">1300 22nd St S, St. Petersburg, FL 33712</string>
+    <string name="txtPhone">(727) 341-7156</string>
+</resources>
